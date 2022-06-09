@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a2e7bd60.chunk.css",
+    "main.js": "/static/js/main.710b7923.chunk.js",
+    "main.js.map": "/static/js/main.710b7923.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.84d226e5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.84d226e5.js.map",
+    "static/js/2.4667406a.chunk.js": "/static/js/2.4667406a.chunk.js",
+    "static/js/2.4667406a.chunk.js.map": "/static/js/2.4667406a.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dd33b08c345dd0913238f964b733ea6c.js": "/precache-manifest.dd33b08c345dd0913238f964b733ea6c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a2e7bd60.chunk.css.map": "/static/css/main.a2e7bd60.chunk.css.map",
+    "static/js/2.4667406a.chunk.js.LICENSE.txt": "/static/js/2.4667406a.chunk.js.LICENSE.txt",
+    "static/media/John Denver - Country Roads.jpg": "/static/media/John Denver - Country Roads.971e3181.jpg",
+    "static/media/John Denver - Country Roads.mp3": "/static/media/John Denver - Country Roads.a9f11dd7.mp3",
+    "static/media/Khalid - Young Dumb Broke.jpg": "/static/media/Khalid - Young Dumb Broke.2640f833.jpg",
+    "static/media/Khalid - Young Dumb Broke.mp3": "/static/media/Khalid - Young Dumb Broke.e92d0309.mp3",
+    "static/media/Never Gonna Give You Up.png": "/static/media/Never Gonna Give You Up.a085f2f0.png",
+    "static/media/Post Malone - White Iverson.mp3": "/static/media/Post Malone - White Iverson.4977e46c.mp3",
+    "static/media/Post Malone - White Iverson.png": "/static/media/Post Malone - White Iverson.68d6ebbb.png",
+    "static/media/Rick Astley - Never Gonna Give You Up.mp3": "/static/media/Rick Astley - Never Gonna Give You Up.ce3d38a9.mp3",
+    "static/media/Sigrid - High Five.mp3": "/static/media/Sigrid - High Five.70ab2f27.mp3",
+    "static/media/Sigrid - High Five.png": "/static/media/Sigrid - High Five.92a83443.png",
+    "static/media/game.jpg": "/static/media/game.0f702e6d.jpg",
+    "static/media/music.jpg": "/static/media/music.86f65282.jpg",
+    "static/media/settings.png": "/static/media/settings.626bd78a.png",
+    "static/media/wallpaper1.jpg": "/static/media/wallpaper1.227f0ba9.jpg",
+    "static/media/wallpaper2.jpg": "/static/media/wallpaper2.23077a93.jpg",
+    "static/media/wallpaper3.jpg": "/static/media/wallpaper3.b2fda5ca.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84d226e5.js",
+    "static/js/2.4667406a.chunk.js",
+    "static/css/main.a2e7bd60.chunk.css",
+    "static/js/main.710b7923.chunk.js"
+  ]
+}
